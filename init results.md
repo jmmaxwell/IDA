@@ -1,7 +1,7 @@
 Initial Result with IMPLAN data
 ========================================================
 
-Here are a few functions for working with the IMPLAN data, as well as some simple results. These are now automated to the point that any further use of them takes only a matter of seconds.I'm not sure what the units are for this (I think millions of dollars).
+Here are a few functions for working with the IM data, as well as some simple results. These are now automated to the point that any further use of them takes only a matter of seconds. Units in millions of dollars.
 
 
 ```r
