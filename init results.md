@@ -1,4 +1,4 @@
-Initial Result with IMPLAN data
+Initial Result with IM data
 ========================================================
 
 Here are a few functions for working with the IM data, as well as some simple results. These are now automated to the point that any further use of them takes only a matter of seconds. Units in millions of dollars.
